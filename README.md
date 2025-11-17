@@ -1,3 +1,5 @@
 # First-repository
 
-Hello everyone. I am praticing and learning
+Hello everyone. I am practicing and learning
+<br>
+Am I hardworking?
